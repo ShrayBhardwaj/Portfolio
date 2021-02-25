@@ -1,0 +1,68 @@
+.table{
+    width: 100%;
+    margin-top: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  th{
+      height: 60px;
+  }
+  td{
+      text-align: center;
+      height: 40px;
+  }
+.nav:hover{
+text-decoration: underline;
+color: red;
+}
+  .nav{
+      text-decoration: none;
+      color:blue;
+      padding: 14px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      background-color:rgb(165, 154, 207);
+      margin-left: 20px;
+      border-radius: 20px;
+
+  }
+
+  .nav2:hover{
+    text-decoration: underline;
+    color: red;
+    text-decoration: none;
+    }
+  .nav2{  
+    text-decoration: none;
+    color:blue;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background-color: rgb(165, 154, 207);
+    margin-left: 20px;
+    border-radius: 20px;
+  }
+  .nav3:hover{
+    text-decoration: underline;
+    color: red;
+    text-decoration: none;
+    }
+  .nav3{
+    text-decoration: none;
+    color:blue;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background-color: rgb(165, 154, 207);
+    margin-left: 20px;
+    border-radius: 20px;
+  }
+  .deg-pro-me{
+      width: 100%;
+      text-align: center;
+
+  }

@@ -1,13 +1,17 @@
 import React from 'react'
 import {NavLink} from 'react-router-dom';
+import "./About";
 
 const Menu  = () => {
     return (
-                 <>
-         <NavLink className="Header" to = "/">Shray Bhardwaj</NavLink>
-         <NavLink className ="nav" to ="/About"> About us</NavLink>
-         <NavLink className="nav2" to = "/Contact"> Contact us</NavLink>
-         </ >
+         <div className="deg-pro-me">
+         
+         <NavLink className ="nav" to ="/About"> Degree</NavLink>
+        
+         <NavLink className ="nav3" to ="/Intro"> About Me</NavLink>
+         
+         <NavLink className="nav2" to = "/Contact">Projects</NavLink>
+         </div >
          
     )
     //
